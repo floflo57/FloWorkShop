@@ -1,1 +1,1 @@
-test commande
+$ git config --list
